@@ -1,0 +1,93 @@
+export default {
+  snazzy: {
+    backgroundColor: '#282a36',
+    borderColor: '#222430',
+    cursorColor: '#97979b',
+    black: '#282a36',
+    white: '#f1f1f0',
+    red: '#ff5c57',
+    green: '#5af78e',
+    yellow: '#f3f99d',
+    blue: '#57c7ff',
+    magenta: '#ff6ac1',
+    cyan: '#9aedfe'
+  },
+  aurora: {
+    backgroundColor: '#0f1c21',
+    borderColor: '#14262C',
+    cursorColor: '#00485a',
+    black: '#0f1c21',
+    white: '#80b6ad',
+    red: '#046655',
+    green: '#04C975',
+    yellow: '#B5BD68',
+    blue: '#308891',
+    magenta: '#94A5BC',
+    cyan: '#8ABEB7'
+  },
+  ayu: {
+    backgroundColor: '#0F1419',
+    borderColor: '#0F1419',
+    cursorColor: '#f49c20',
+    black: '#0F1419',
+    white: '#f2f2f2',
+    red: '#ff3333',
+    green: '#89b73d',
+    yellow: '#f49c20',
+    blue: '#3ea7dc',
+    magenta: '#b37ed0',
+    cyan: '#3ea7dc'
+  },
+  peacock: {
+    backgroundColor: '#2b2a27',
+    borderColor: '#2b2a27',
+    cursorColor: 'rgba(248,28,229,0.6)',
+    black: '#1e1d1b',
+    white: '#fff',
+    red: '#dc322f',
+    green: '#859900',
+    yellow: '#b58900',
+    blue: '#268bd2',
+    magenta: '#d33682',
+    cyan: '#2aa198'
+  },
+  oneLight: {
+    backgroundColor: '#fafafa',
+    borderColor: 'rgba(0, 0, 0, .12)',
+    cursorColor: '#526eff',
+    black: '#383a42',
+    white: '#a0a1a7',
+    red: '#e45649',
+    green: '#50a14f',
+    yellow: '#c18401',
+    blue: '#4078f2',
+    magenta: '#a626a4',
+    cyan: '#0184bc'
+  },
+  verminal: {
+    backgroundColor: 'rgba(0, 0, 0, .65)',
+    borderColor: 'rgba(0, 0, 0, .15)',
+    cursorColor: '#0095FF',
+    black: 'rgba(0, 0, 0, .65)',
+    white: '#fff',
+    red: '#FF3B30',
+    green: '#4CD964',
+    yellow: 'FFCC00',
+    blue: '#0095FF',
+    magenta: '#FF2D55',
+    cyan: '#5AC8FA'
+  },
+  ocean: {
+    backgroundColor: '#2b303b',
+    borderColor: '#343d46',
+    cursorColor: '#c0c5ce',
+    black: '#2b303b',
+    white: '#c0c5ce',
+    red: '#bf616a',
+    green: '#a3be8c',
+    yellow: 'ebcb8b',
+    blue: '#8497bd',
+    magenta: '#b48ead',
+    cyan: '#96b5b4'
+  }
+}
